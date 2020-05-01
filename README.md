@@ -19,6 +19,6 @@ remotes::install_github("ihmeuw-demographics/packageTemplate")
 
 ## Getting help
 
-[packageTemplate] function documentation and vignettes can be found at [https://ihmeuw-demographics.github.io/packageTemplate/index.html](https://ihmeuw-demographics.github.io/packageTemplate/index.html)
+packageTemplate function documentation and vignettes can be found at [https://ihmeuw-demographics.github.io/packageTemplate/index.html](https://ihmeuw-demographics.github.io/packageTemplate/index.html)
 
 If you encounter a clear bug, please file a minimal reproducible example on [github](https://github.com/ihmeuw-demographics/packageTemplate/issues).
