@@ -9,8 +9,7 @@ Authors@R: c(person("Charlton", "Callender", email = "chacalle@uw.edu", role = "
              person("Haidong", "Wang", email = "haidong@uw.edu", role = "cre"),
              person("Institute for Health Metrics and Evaluation", role = c("cph", "fnd")))
 URL: https://github.com/ihmeuw-demographics/packageTemplate/
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
