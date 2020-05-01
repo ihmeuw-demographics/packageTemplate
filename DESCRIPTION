@@ -18,6 +18,7 @@ Suggests:
     testthat,
     knitr,
     rmarkdown,
-    spelling
+    spelling,
+    covr
 VignetteBuilder: knitr
 Language: en-US
